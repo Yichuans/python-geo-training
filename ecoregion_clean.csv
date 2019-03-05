@@ -1,0 +1,822 @@
+id,ecoregion_name,biome,realm,ecoregion_area,area_protected,percent_protected
+60141,Monte Alegre varzeá,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,66947.38501,15338.980790000001,22.9%
+70104,Eastern Micronesia tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,533.6602109,40.42536299,7.6%
+30126,Northwestern Congolian lowland forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,435086.2309,91600.35292,21.1%
+30908,Zambezian halophytics,Flooded Grasslands & Savannas,Afrotropics,30438.547710000003,6356.7057780000005,20.9%
+51307,Meseta Central matorral,Deserts & Xeric Shrublands,Nearctic,125544.3385,2546.763524,2.0%
+10406,Northland temperate kauri forests,Temperate Broadleaf & Mixed Forests,Australasia,29997.234689999997,3558.4205450000004,11.9%
+60907,Pantanal,Flooded Grasslands & Savannas,Neotropics,171428.9438,28792.190810000004,16.8%
+60206,Bolivian montane dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,73167.18032,10554.29902,14.4%
+70115,Tuamotu tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,948.2895228,40.10223759,4.2%
+60153,Peruvian Yungas,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,187123.3525,43043.71917,23.0%
+40155,Sri Lanka montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,3085.7281359999997,636.8952413,20.6%
+61307,Galápagos Islands scrubland mosaic,Deserts & Xeric Shrublands,Neotropics,8032.001181999999,8032.001181999999,100.0%
+81315,Gobi Lakes Valley desert steppe,Deserts & Xeric Shrublands,Palearctic,139699.9905,5979.708055,4.3%
+40206,Khathiar-Gir dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,267563.2213,11360.23947,4.2%
+60174,Ucayali moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,115186.4373,60037.85924,52.1%
+61313,Paraguana xeric scrub,Deserts & Xeric Shrublands,Neotropics,16008.800769999998,3181.5504309999997,19.9%
+60162,Sierra Madre de Chiapas moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,11283.35089,1790.579225,15.9%
+50608,Mid-Continental Canadian forests,Boreal Forests/Taiga,Nearctic,368730.1679,56813.17279,15.4%
+81302,Alashan Plateau semi-desert,Deserts & Xeric Shrublands,Palearctic,674924.4011,125563.6587,18.6%
+60805,Patagonian steppe,"Temperate Grasslands, Savannas & Shrublands",Neotropics,576570.716,36220.10143,6.3%
+11305,Great Victoria desert,Deserts & Xeric Shrublands,Australasia,425296.11799999996,129255.865,30.4%
+81325,Red Sea Nubo-Sindian tropical desert and semi-desert,Deserts & Xeric Shrublands,Palearctic,652682.548,36957.64742,5.7%
+80442,Tarim Basin deciduous forests and steppe,Temperate Broadleaf & Mixed Forests,Palearctic,54595.30929,4060.038153,7.4%
+40121,Luang Prabang montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,71969.9283,13111.221790000001,18.2%
+30111,Eastern Guinean forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,190135.7185,42393.35676,22.3%
+60217,Jalisco dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,26186.34591,1716.9874109999998,6.6%
+60906,Orinoco wetlands,Flooded Grasslands & Savannas,Neotropics,6026.614833,2514.706366,41.7%
+80440,Taiheiyo evergreen forests,Temperate Broadleaf & Mixed Forests,Palearctic,138605.4501,23809.38959,17.2%
+60302,Belizian pine forests,Tropical & Subtropical Coniferous Forests,Neotropics,2837.639693,898.6854053999999,31.7%
+61404,Northern Mesoamerican Pacific mangroves,Mangroves,Neotropics,8211.521105,3131.818197,38.1%
+40207,Narmada Valley dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,170256.8733,7675.628524,4.5%
+60226,Puerto Rican dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,1278.211453,196.82882769999998,15.4%
+61301,Araya and Paria xeric scrub,Deserts & Xeric Shrublands,Neotropics,5293.230485,289.80974330000004,5.5%
+31315,Namib desert,Deserts & Xeric Shrublands,Afrotropics,81054.78159,71559.599,88.3%
+81323,Persian Gulf desert and semi-desert,Deserts & Xeric Shrublands,Palearctic,72801.32913,3349.694179,4.6%
+30119,Maputaland coastal forest mosaic,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,30270.2392,4489.621062,14.8%
+70107,Kermadec Islands subtropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,33.85380713,33.85346898,100.0%
+40116,Irrawaddy freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,15191.912980000001,5.656613929,0.0%
+10113,New Caledonia rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,14594.84459,7889.614953,54.1%
+11003,South Island montane grasslands,Montane Grasslands & Shrublands,Australasia,40019.1285,25125.484930000002,62.8%
+40203,Chhota-Nagpur dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,122692.6679,7322.839459000001,6.0%
+61315,Sechura desert,Deserts & Xeric Shrublands,Neotropics,185316.6612,14372.11965,7.8%
+60145,Northwestern Andean montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,81346.18888999999,11194.55698,13.8%
+30120,Mascarene forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,4956.593651,2083.705975,42.0%
+80406,Cantabrian mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,79890.89659,18965.34948,23.7%
+50505,Blue Mountains forests,Temperate Conifer Forests,Nearctic,64848.97900000001,5619.053877,8.7%
+60303,Central American pine-oak forests,Tropical & Subtropical Coniferous Forests,Neotropics,111592.2964,12930.03037,11.6%
+60115,Chocó-Darién moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,73787.7178,8177.110263,11.1%
+60909,Southern Cone Mesopotamian savanna,Flooded Grasslands & Savannas,Neotropics,26963.48993,86.96050708,0.3%
+51110,High Arctic tundra,Tundra,Nearctic,464788.1237,37507.056860000004,8.1%
+70201,Fiji tropical dry forests,Tropical & Subtropical Dry Broadleaf Forests,Oceania,6927.980990999999,204.6254607,3.0%
+81002,Central Tibetan Plateau alpine steppe,Montane Grasslands & Shrublands,Palearctic,630873.6909,295978.1276,46.9%
+61201,Chilean matorral,"Mediterranean Forests, Woodlands & Scrub",Neotropics,148839.8288,1516.809115,1.0%
+41403,Indus River Delta-Arabian Sea mangroves,Mangroves,IndoMalay,5805.363179999999,1700.9366940000002,29.3%
+10127,Vogelkop montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,21997.71873,11985.23095,54.5%
+80907,Suiphun-Khanka meadows and forest meadows,Flooded Grasslands & Savannas,Palearctic,33825.29037,8237.8044,24.4%
+41406,Sundarbans mangroves,Mangroves,IndoMalay,20481.16017,6570.304642,32.1%
+60180,Xingu-Tocantins-Araguaia moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,266820.6261,88129.66567,33.0%
+80516,Nujiang Langcang Gorge alpine conifer and mixed forests,Temperate Conifer Forests,Palearctic,82993.04707999999,18701.7335,22.5%
+60220,Lesser Antillean dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,912.4488046,167.9534725,18.4%
+80415,Changjiang Plain evergreen forests,Temperate Broadleaf & Mixed Forests,Palearctic,438996.407,32948.10575,7.5%
+70102,Central Polynesian tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,615.9437605,62.78768035,10.2%
+50517,Middle Atlantic coastal forests,Temperate Conifer Forests,Nearctic,133907.6787,9566.163403,7.1%
+10125,Trobriand Islands rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,4206.223868,259.6674627,6.2%
+51102,Aleutian Islands tundra,Tundra,Nearctic,12119.08143,11806.72509,97.4%
+41303,Northwestern thorn scrub forests,Deserts & Xeric Shrublands,IndoMalay,489383.0425,20242.25332,4.1%
+40149,South China-Vietnam subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,224799.9733,13482.867909999999,6.0%
+60179,Windward Islands moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,2025.541747,782.2264974999999,38.6%
+11306,Nullarbor Plains xeric shrublands,Deserts & Xeric Shrublands,Australasia,195634.3357,63003.04848,32.2%
+81310,Central Asian northern desert,Deserts & Xeric Shrublands,Palearctic,663899.9229,14455.778069999998,2.2%
+70114,Tongan tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,942.6600983999999,117.18131470000002,12.4%
+50405,East Central Texas forests,Temperate Broadleaf & Mixed Forests,Nearctic,52753.93255,180.4032351,0.3%
+70703,Northwestern Hawaii scrub,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Oceania,14.79810496,14.79810496,100.0%
+40205,Irrawaddy dry forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,35163.931939999995,167.7625303,0.5%
+11001,Australian Alps montane grasslands,Montane Grasslands & Shrublands,Australasia,12022.651020000001,7650.502418000001,63.6%
+50801,California Central Valley grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,55191.73574,2271.310076,4.1%
+50611,Newfoundland Highland forests,Boreal Forests/Taiga,Nearctic,16375.320319999999,1653.226969,10.1%
+10203,Sumba deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,Australasia,10788.82429,1187.694724,11.0%
+10401,Chatham Island temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,806.1321688999999,46.1307107,5.7%
+60227,Sierra de la Laguna dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,3993.2813100000003,841.1871257000001,21.1%
+50803,Central and Southern mixed grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,282773.9945,1489.070883,0.5%
+40171,South Taiwan monsoon rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,2582.4149629999997,349.9109157,13.5%
+60221,Magdalena Valley dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,19679.225130000003,456.72199720000003,2.3%
+11204,Jarrah-Karri forest and shrublands,"Mediterranean Forests, Woodlands & Scrub",Australasia,10467.272190000002,4742.858552000001,45.3%
+81213,Mediterranean dry woodlands and steppe,"Mediterranean Forests, Woodlands & Scrub",Palearctic,292848.8364,54852.67864,18.7%
+81216,Northwest Iberian montane forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,57451.93505,15641.395169999998,27.2%
+10128,Vogelkop-Aru lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,77575.79504,7969.3992769999995,10.3%
+80508,Helanshan montane conifer forests,Temperate Conifer Forests,Palearctic,24741.049580000003,7634.21975,30.9%
+61309,La Costa xeric shrublands,Deserts & Xeric Shrublands,Neotropics,68614.7212,42490.45228,61.9%
+80426,Manchurian mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,505152.73299999995,57281.11312,11.3%
+31316,Namibian savanna woodlands,Deserts & Xeric Shrublands,Afrotropics,226008.7236,88811.26659,39.3%
+80428,Nihonkai montane deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,82486.74747,17802.529619999998,21.6%
+40118,Jian Nan subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,665038.125,37665.90353,5.7%
+50815,Western short grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,436132.5792,1731.214311,0.4%
+60109,Cauca Valley montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,32126.95991,3631.069865,11.3%
+81112,Trans-Baikal Bald Mountain tundra,Tundra,Palearctic,218079.9036,16750.29016,7.7%
+80902,Bohai Sea saline meadow,Flooded Grasslands & Savannas,Palearctic,11583.712940000001,2551.315948,22.0%
+11301,Carnarvon xeric shrublands,Deserts & Xeric Shrublands,Australasia,90685.4448,7721.665465000001,8.5%
+60703,Campos Rupestres montane savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,26451.471859999998,7019.328470999999,26.5%
+51309,Snake-Columbia shrub steppe,Deserts & Xeric Shrublands,Nearctic,218607.4307,16573.2634,7.6%
+50528,South Central Rockies forests,Temperate Conifer Forests,Nearctic,159710.5539,40581.5052,25.4%
+31009,Highveld grasslands,Montane Grasslands & Shrublands,Afrotropics,186577.2137,2593.9365,1.4%
+50530,Wasatch and Uinta montane forests,Temperate Conifer Forests,Nearctic,41558.287260000005,4787.5451219999995,11.5%
+10119,Solomon Islands rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,35930.24984,663.3511597,1.8%
+80405,Baltic mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,116852.0123,39106.316,33.5%
+61306,Cuban cactus scrub,Deserts & Xeric Shrublands,Neotropics,3272.083094,260.5627725,8.0%
+60120,Cuban moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,21445.28759,3493.710935,16.3%
+40209,South Deccan Plateau dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,82431.63626,7614.161259,9.2%
+51304,Colorado Plateau shrublands,Deserts & Xeric Shrublands,Nearctic,327123.4305,35233.8269,10.8%
+60228,Sinaloan dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,77706.14661,7833.019911,10.1%
+81016,Sayan Alpine meadows and tundra,Montane Grasslands & Shrublands,Palearctic,81084.80992999999,20176.09477,24.9%
+10104,Buru rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,8643.23444,68.9324906,0.8%
+10411,Tasmanian Central Highland forests,Temperate Broadleaf & Mixed Forests,Australasia,18743.03802,6009.884502,32.1%
+80435,Rodope montane mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,31706.888560000003,17761.67563,56.0%
+40158,Sumatran lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,260018.6342,18336.734940000002,7.1%
+30707,Guinean forest-savanna mosaic,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,675089.1516,108800.4892,16.1%
+31011,Madagascar ericoid thickets,Montane Grasslands & Shrublands,Afrotropics,1280.430543,144.0870839,11.3%
+81018,Sulaiman Range alpine meadows,Montane Grasslands & Shrublands,Palearctic,23923.63013,175.1505421,0.7%
+10201,Lesser Sundas deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,Australasia,39533.9069,3367.987653,8.5%
+40201,Central Deccan Plateau dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,240685.47699999998,9763.787912,4.1%
+40132,Myanmar coastal rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,66695.70053999999,3541.03975,5.3%
+31007,Ethiopian montane grasslands and woodlands,Montane Grasslands & Shrublands,Afrotropics,245894.9283,21146.18334,8.6%
+81214,Mediterranean woodlands and forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,359102.2836,29022.084239999996,8.1%
+11002,Central Range sub-alpine grasslands,Montane Grasslands & Shrublands,Australasia,15605.85244,6071.82132,38.9%
+11310,Western Australian Mulga shrublands,Deserts & Xeric Shrublands,Australasia,461472.7225,14884.246980000002,3.2%
+40901,Rann of Kutch seasonal salt marsh,Flooded Grasslands & Savannas,IndoMalay,27965.05879,21250.34725,76.0%
+61401,Amazon-Orinoco-Southern Caribbean mangroves,Mangroves,Neotropics,41161.86434,26730.74514,64.9%
+50406,Eastern forest-boreal transition,Temperate Broadleaf & Mixed Forests,Nearctic,348475.9579,37551.38841,10.8%
+30124,Northeastern Congolian lowland forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,534633.751,60593.529989999995,11.3%
+30715,Somali Acacia-Commiphora bushlands and thickets,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,1056171.101,118508.261,11.2%
+81215,Northeastern Spain and Southern France Mediterranean forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,90901.84328,36717.00776,40.4%
+70103,Cook Islands tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,213.0420556,3.7829779219999997,1.8%
+80607,Sakhalin Island taiga,Boreal Forests/Taiga,Palearctic,68855.70339,3851.172373,5.6%
+50609,Midwestern Canadian Shield forests,Boreal Forests/Taiga,Nearctic,547161.6925,46728.66513,8.5%
+60155,Puerto Rican moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,7544.7621,406.91889199999997,5.4%
+11303,Gibson desert,Deserts & Xeric Shrublands,Australasia,156213.9681,93939.11544,60.1%
+10120,Southeastern Papuan rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,77528.59372,832.7800737000001,1.1%
+81311,Central Asian riparian woodlands,Deserts & Xeric Shrublands,Palearctic,88832.60146,10863.677679999999,12.2%
+80501,Alps conifer and mixed forests,Temperate Conifer Forests,Palearctic,149823.0617,49039.93629,32.7%
+81308,Caspian lowland desert,Deserts & Xeric Shrublands,Palearctic,267901.5135,19460.26433,7.3%
+81205,Crete Mediterranean forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,8211.025928000001,2795.484446,34.0%
+50501,Alberta Mountain forests,Temperate Conifer Forests,Nearctic,39860.78991,26901.498069999998,67.5%
+40401,Eastern Himalayan broadleaf forests,Temperate Broadleaf & Mixed Forests,IndoMalay,83234.19362,11395.34446,13.7%
+60181,Yucatán moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,69849.04307,11063.24916,15.8%
+80102,Yunnan Plateau subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,Palearctic,240874.4784,13584.10761,5.6%
+80804,Daurian forest steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,209403.0151,8779.675545999999,4.2%
+11207,Murray-Darling woodlands and mallee,"Mediterranean Forests, Woodlands & Scrub",Australasia,198366.8122,31609.158010000003,15.9%
+30719,Southern Miombo woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,409152.5803,68702.72038,16.8%
+40165,Tonle Sap-Mekong peat swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,29445.553910000002,427.28504739999994,1.5%
+51302,Central Mexican matorral,Deserts & Xeric Shrublands,Nearctic,59487.377179999996,1294.5609439999998,2.2%
+80520,Scandinavian coastal conifer forests,Temperate Conifer Forests,Palearctic,19325.65751,966.6447950999999,5.0%
+60128,Iquitos varzeá,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,115257.7122,41077.08006,35.6%
+60108,Catatumbo moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,22898.45641,10792.10102,47.1%
+10103,Biak-Numfoor rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,2828.572863,560.8561122000001,19.8%
+50604,Copper Plateau taiga,Boreal Forests/Taiga,Nearctic,17209.89577,5207.759909,30.3%
+60905,Guayaquil flooded grasslands,Flooded Grasslands & Savannas,Neotropics,2943.5266890000003,68.58791602,2.3%
+31306,Gulf of Oman desert and semi-desert,Deserts & Xeric Shrublands,Afrotropics,62586.15147999999,774.702102,1.2%
+31314,Nama Karoo,Deserts & Xeric Shrublands,Afrotropics,351893.6042,12316.40935,3.5%
+60209,Central American dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,68181.34164,6473.228527,9.5%
+60709,Llanos,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,378245.3405,53005.31042,14.0%
+60137,Magdalena-Urabá moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,76933.70502000001,5211.995772,6.8%
+80407,Caspian Hyrcanian mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,55229.48504,7084.3126,12.8%
+31302,Arabian Peninsula coastal fog desert,Deserts & Xeric Shrublands,Afrotropics,83167.46134,6682.921111,8.0%
+40114,Greater Negros-Panay rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,35074.32871,3319.12722,9.5%
+81209,Iberian sclerophyllous and semi-deciduous forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,298322.9388,74698.8608,25.0%
+40133,Nicobar Islands rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,1699.3241239999998,839.7983151000001,49.4%
+80510,Hokkaido montane conifer forests,Temperate Conifer Forests,Palearctic,45868.48116,8094.217143000001,17.6%
+30706,Eastern Miombo woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,484955.955,131420.4919,27.1%
+30114,Guinean montane forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,31118.925689999996,8734.189358,28.1%
+50518,North Central Rockies forests,Temperate Conifer Forests,Nearctic,246250.056,45637.2634,18.5%
+51113,Kalaallit Nunaat low arctic tundra,Tundra,Nearctic,171411.3284,8698.956325,5.1%
+80429,North Atlantic moist mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,38738.55358,13068.637920000001,33.7%
+80513,Mediterranean conifer and mixed forests,Temperate Conifer Forests,Palearctic,23142.829980000002,4433.75649,19.2%
+10801,Cantebury-Otago tussock grasslands,"Temperate Grasslands, Savannas & Shrublands",Australasia,53599.55591,4348.936303,8.1%
+10409,Southeast Australia temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,272923.7278,34125.73526,12.5%
+60230,Southern Pacific dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,42519.86761,1830.0000559999999,4.3%
+60310,Trans-Mexican Volcanic Belt pine-oak forests,Tropical & Subtropical Coniferous Forests,Neotropics,92502.96827,9544.013173000001,10.3%
+31201,Albany thickets,"Mediterranean Forests, Woodlands & Scrub",Afrotropics,17129.28835,1800.829027,10.5%
+30712,Northern Congolian forest-savanna mosaic,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,709665.6604,105023.7897,14.8%
+10414,Westland temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,5288.38291,4319.579703,81.7%
+50807,Flint Hills tall grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,29679.14082,414.24419639999996,1.4%
+81306,Badghyz and Karabil semi-desert,Deserts & Xeric Shrublands,Palearctic,133906.4106,3396.327665,2.5%
+60215,Hispaniolan dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,15528.150319999999,2864.99259,18.5%
+80411,Central China loess plateau mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,360434.8415,17337.86905,4.8%
+80446,Zagros Mountains forest steppe,Temperate Broadleaf & Mixed Forests,Palearctic,398649.7205,20384.14994,5.1%
+81201,Aegean and Western Turkey sclerophyllous and mixed forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,133754.4856,25150.55326,18.8%
+11302,Central Ranges xeric scrub,Deserts & Xeric Shrublands,Australasia,282290.7732,67425.36735,23.9%
+70117,Western Polynesian tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,93.34752835,60.03650565,64.3%
+81332,West Saharan montane xeric woodlands,Deserts & Xeric Shrublands,Palearctic,258640.0605,108033.2462,41.8%
+40136,Northern Annamites rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,47310.75504,14568.888369999999,30.8%
+40120,Lower Gangetic Plains moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,254620.16100000002,5489.319152,2.2%
+60106,Caatinga Enclaves moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,4808.10987,1332.187027,27.7%
+30709,Kalahari Acacia-Baikiaea woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,336213.7387,108180.3503,32.2%
+60105,Bolivian Yungas,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,90747.63908,45535.87247,50.2%
+80517,Qilian Mountains conifer forests,Temperate Conifer Forests,Palearctic,16689.55474,3592.9756909999996,21.5%
+31202,Lowland fynbos and renosterveld,"Mediterranean Forests, Woodlands & Scrub",Afrotropics,32829.06099,5919.275827,18.0%
+80423,Hokkaido deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,25593.22224,1452.581424,5.7%
+40303,Northeast India-Myanmar pine forests,Tropical & Subtropical Coniferous Forests,IndoMalay,9726.687967,4.012647856,0.0%
+60147,Orinoco Delta swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,28208.1629,16327.80319,57.9%
+30708,Itigi-Sumbu thicket,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,7860.132140000001,3228.24615,41.1%
+60119,Costa Rican seasonal moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,10720.51606,1183.767907,11.0%
+40107,Chao Phraya freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,39086.437060000004,290.8752811,0.7%
+50513,Florida sand pine scrub,Temperate Conifer Forests,Nearctic,3893.381719,356.35328760000004,9.2%
+40123,Luzon rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,95421.20587,10016.447320000001,10.5%
+40139,Northern Thailand-Laos moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,42235.85,8299.97433,19.7%
+51312,Tamaulipan mezquital,Deserts & Xeric Shrublands,Nearctic,141785.2875,16209.51655,11.4%
+50617,Yukon Interior dry forests,Boreal Forests/Taiga,Nearctic,62516.34185,436.7881339,0.7%
+51112,Kalaallit Nunaat high arctic tundra,Tundra,Nearctic,304321.0236,218720.7666,71.9%
+50512,Eastern Cascades forests,Temperate Conifer Forests,Nearctic,55325.65066,2765.932666,5.0%
+80422,Euxine-Colchic broadleaf forests,Temperate Broadleaf & Mixed Forests,Palearctic,74581.06242,785.9043320000001,1.1%
+81202,Anatolian conifer and deciduous mixed forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,86513.69097000001,668.2226379,0.8%
+40156,Sulu Archipelago rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,2341.370675,2.120661504,0.1%
+11203,Eyre and York mallee,"Mediterranean Forests, Woodlands & Scrub",Australasia,61059.30952,9147.952808,15.0%
+31004,"Drakensberg montane grasslands, woodlands and forests",Montane Grasslands & Shrublands,Afrotropics,202664.4649,15918.708840000001,7.9%
+81008,Kopet Dag woodlands and forest steppe,Montane Grasslands & Shrublands,Palearctic,58416.34636,2658.629911,4.6%
+80444,Western Siberian hemiboreal forests,Temperate Broadleaf & Mixed Forests,Palearctic,223927.7033,14855.02173,6.6%
+80514,Northeastern Himalayan subalpine conifer forests,Temperate Conifer Forests,Palearctic,46381.004069999995,7769.1100129999995,16.8%
+60159,Santa Marta montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,4795.390145,2196.413311,45.8%
+61403,Mesoamerican Gulf-Caribbean mangroves,Mangroves,Neotropics,26802.52868,14761.90249,55.1%
+60118,Cordillera Oriental montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,68020.7979,17478.75897,25.7%
+50603,Cook Inlet taiga,Boreal Forests/Taiga,Nearctic,27914.368580000002,8471.675959,30.3%
+60710,Uruguayan savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,353572.5628,9833.879331999999,2.8%
+40301,Himalayan subtropical pine forests,Tropical & Subtropical Coniferous Forests,IndoMalay,76371.40805,3521.773467,4.6%
+60216,Islas Revillagigedo dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,214.53636919999997,214.53636919999997,100.0%
+70701,Hawaii tropical high shrublands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Oceania,1857.2346149999998,790.5342703,42.6%
+60123,Fernando de Noronha-Atol das Rocas moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,18.95016039,18.13755454,95.7%
+40163,Tenasserim-South Thailand semi-evergreen rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,97538.85687,21151.49741,21.7%
+30112,Ethiopian montane forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,249301.9154,25021.284480000002,10.0%
+61006,Northern Andean páramo,Montane Grasslands & Shrublands,Neotropics,30009.577989999998,12173.530990000001,40.6%
+40117,Irrawaddy moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,138592.5327,4368.722034,3.2%
+80906,Tigris-Euphrates alluvial salt marsh,Flooded Grasslands & Savannas,Palearctic,35680.69771,3079.7485070000002,8.6%
+61304,Caatinga,Deserts & Xeric Shrublands,Neotropics,736002.3470000001,44232.008369999996,6.0%
+80417,Daba Mountains evergreen forests,Temperate Broadleaf & Mixed Forests,Palearctic,168677.9764,13077.75548,7.8%
+50301,Bermuda subtropical conifer forests,Tropical & Subtropical Coniferous Forests,Nearctic,39.49886962,1.9708575119999998,5.0%
+40152,Southern Annamites montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,46587.91315,9365.870917,20.1%
+40131,Mizoram-Manipur-Kachin rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,135855.426,11233.434159999999,8.3%
+31301,Aldabra Island xeric scrub,Deserts & Xeric Shrublands,Afrotropics,160.4987066,135.078832,84.2%
+50616,Southern Hudson Bay taiga,Boreal Forests/Taiga,Nearctic,374589.0342,41698.06134,11.1%
+30129,Western Congolian swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,128921.7424,52779.5927,40.9%
+50524,Puget lowland forests,Temperate Conifer Forests,Nearctic,22589.56103,1234.032152,5.5%
+81309,Central Afghan Mountains xeric woodlands,Deserts & Xeric Shrublands,Palearctic,139709.0845,282.9816061,0.2%
+60301,Bahamian pine mosaic,Tropical & Subtropical Coniferous Forests,Neotropics,6900.557409,1193.612829,17.3%
+70105,Fiji tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,11635.32526,601.8400742,5.2%
+81114,Yamal-Gydan tundra,Tundra,Palearctic,413060.0072,32000.4947,7.7%
+60213,Cuban dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,66066.87478,3087.3724460000003,4.7%
+40104,Borneo peat swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,67622.45111000001,9164.850745,13.6%
+50605,Eastern Canadian forests,Boreal Forests/Taiga,Nearctic,487988.4742,16660.47908,3.4%
+40140,Northern Triangle subtropical forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,53993.25621,16015.844490000001,29.7%
+30202,Madagascar dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,Afrotropics,152410.5379,5403.50197,3.5%
+80414,Changbai Mountains mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,93508.87898,4705.262224,5.0%
+60908,Paraná flooded savanna,Flooded Grasslands & Savannas,Neotropics,37206.63371,10723.32732,28.8%
+10403,Fiordland temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,11052.63645,10951.94328,99.1%
+50515,Great Basin montane forests,Temperate Conifer Forests,Nearctic,5796.345843,2755.830052,47.5%
+80418,Dinaric Mountains mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,58298.97997000001,12308.310959999999,21.1%
+80434,Qin Ling Mountains deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,123602.4613,13044.195029999999,10.6%
+40168,Western Java rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,41751.82948,803.4716323,1.9%
+10202,New Caledonia dry forests,Tropical & Subtropical Dry Broadleaf Forests,Australasia,4430.182997999999,2456.51952,55.4%
+41404,Myanmar Coast mangroves,Mangroves,IndoMalay,21360.6061,1463.758096,6.9%
+80813,Mongolian-Manchurian grassland,"Temperate Grasslands, Savannas & Shrublands",Palearctic,889316.8487,90143.90058,10.1%
+80401,Appenine deciduous montane forests,Temperate Broadleaf & Mixed Forests,Palearctic,16155.4611,7418.80307,45.9%
+80808,Gissaro-Alai open woodlands,"Temperate Grasslands, Savannas & Shrublands",Palearctic,168398.8183,14092.554069999998,8.4%
+31008,Ethiopian montane moorlands,Montane Grasslands & Shrublands,Afrotropics,25209.39909,10965.35809,43.5%
+30102,Atlantic Equatorial coastal forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,190088.9195,43864.51279,23.1%
+60110,Cayos Miskitos-San Andrés and Providencia moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,95.4028671,35.97258967,37.7%
+60157,Purus-Madeira moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,174393.4075,103702.8186,59.5%
+40154,Sri Lanka lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,12581.97726,1178.978725,9.4%
+10704,Carpentaria tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,360443.7391,25286.04191,7.0%
+10124,Sulawesi montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,75978.13257,9086.524539,12.0%
+50416,Western Great Lakes forests,Temperate Broadleaf & Mixed Forests,Nearctic,274577.5002,42589.6636,15.5%
+30724,Western Zambezian grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,34090.18782,17031.67463,50.0%
+50813,Palouse grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,46975.43674,1006.460864,2.1%
+30714,Serengeti volcanic grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,18067.93314,10258.513429999999,56.8%
+40124,Malabar Coast moist forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,35542.78561,1253.723099,3.5%
+81207,Eastern Mediterranean conifer-sclerophyllous-broadleaf forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,144160.3822,1185.955944,0.8%
+51109,Davis Highlands tundra,Tundra,Nearctic,88083.89899,27427.342289999997,31.1%
+50523,Piney Woods forests,Temperate Conifer Forests,Nearctic,141206.4505,4973.170701,3.5%
+51104,Arctic foothills tundra,Tundra,Nearctic,129384.5744,26458.24409,20.4%
+80443,Ussuri broadleaf and mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,197907.5579,17480.14922,8.8%
+31405,Southern Africa mangroves,Mangroves,Afrotropics,996.1301804999999,229.178427,23.0%
+80811,Kazakh upland,"Temperate Grasslands, Savannas & Shrublands",Palearctic,72112.54301000001,2113.379953,2.9%
+80601,East Siberian taiga,Boreal Forests/Taiga,Palearctic,3908788.2460000003,283859.1345,7.3%
+61002,Central Andean puna,Montane Grasslands & Shrublands,Neotropics,212540.2303,65453.87902000001,30.8%
+60101,Araucaria moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,216550.8405,10049.06076,4.6%
+40130,Mindoro rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,10140.14698,1631.0055320000001,16.1%
+30716,Southern Acacia-Commiphora bushlands and thickets,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,228275.9677,58403.76263,25.6%
+30906,Zambezian coastal flooded savanna,Flooded Grasslands & Savannas,Afrotropics,19588.17894,6597.762205,33.7%
+60132,Japurá-Solimoes-Negro moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,270249.5078,146585.8709,54.2%
+51311,Tamaulipan matorral,Deserts & Xeric Shrublands,Nearctic,16306.860209999999,242.11656000000002,1.5%
+40113,Eastern Java-Bali rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,54015.81781,1385.5459150000002,2.6%
+60229,Sinú Valley dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,25036.582280000002,2685.626162,10.7%
+81329,South Saharan steppe and woodlands,Deserts & Xeric Shrublands,Palearctic,1104149.405,125133.6511,11.3%
+80611,West Siberian taiga,Boreal Forests/Taiga,Palearctic,1674261.369,145419.9552,8.7%
+10123,Sulawesi lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,116586.5086,8554.108616,7.3%
+81217,Pindus Mountains mixed forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,39627.53746,13063.79745,33.0%
+81001,Altai alpine meadow and tundra,Montane Grasslands & Shrublands,Palearctic,90360.75246,24836.88147,27.5%
+10405,North Island temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,84614.73347,16298.28651,19.3%
+30723,Western Congolian forest-savanna mosaic,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,414331.0015,28894.94317,7.0%
+60402,Magellanic subpolar forests,Temperate Broadleaf & Mixed Forests,Neotropics,164399.9733,73810.96143,44.9%
+70101,Carolines tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,581.5503093,26.44067653,4.5%
+60168,Tapajós-Xingu moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,337304.7751,241794.4416,71.7%
+60169,Pantepui,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,51011.66444,41668.383030000005,81.7%
+60177,Veracruz montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,4967.508829,303.3589607,6.1%
+81312,Central Asian southern desert,Deserts & Xeric Shrublands,Palearctic,567973.4208,9817.292309999999,1.7%
+30105,Comoros forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,2070.025081,221.7915753,10.7%
+80818,Tian Shan foothill arid steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,129284.9114,10193.94519,7.9%
+40159,Sumatran montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,73104.13619,23343.21306,31.9%
+60306,Miskito pine forests,Tropical & Subtropical Coniferous Forests,Neotropics,18965.07042,4352.922647,23.0%
+10412,Tasmanian temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,18252.43283,4046.1236700000004,22.2%
+50802,Canadian Aspen forests and parklands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,398310.9553,14383.30771,3.6%
+60223,Marañón dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,11396.68563,701.2466492000001,6.2%
+50410,New England-Acadian forests,Temperate Broadleaf & Mixed Forests,Nearctic,238136.5288,11951.92038,5.0%
+10114,Norfolk Island subtropical forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,41.72005339,13.27428365,31.8%
+31308,Ile Europa and Bassas da India xeric scrub,Deserts & Xeric Shrublands,Afrotropics,21.82473355,21.82473355,100.0%
+40129,Mindanao-Eastern Visayas rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,105339.4505,9274.937914,8.8%
+80901,Amur meadow steppe,Flooded Grasslands & Savannas,Palearctic,123508.504,17269.56495,14.0%
+51103,Arctic coastal tundra,Tundra,Nearctic,98398.37231,12569.30108,12.8%
+30704,Central Zambezian Miombo woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,1186782.551,264110.56,22.3%
+30106,Cross-Niger transition forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,20765.14534,537.4318242,2.6%
+30101,Albertine Rift montane forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,104094.5365,12242.89386,11.8%
+81019,Tian Shan montane steppe and meadows,Montane Grasslands & Shrublands,Palearctic,280766.2068,25126.476619999998,8.9%
+81004,Ghorat-Hazarajat alpine meadow,Montane Grasslands & Shrublands,Palearctic,66646.10528999999,737.0628571000001,1.1%
+61010,High Monte,Montane Grasslands & Shrublands,Neotropics,116983.3084,14246.24635,12.2%
+60803,Humid Pampas,"Temperate Grasslands, Savannas & Shrublands",Neotropics,399422.6517,9137.603909,2.3%
+10116,Northern New Guinea montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,23339.034509999998,3381.183707,14.5%
+10701,Arnhem Land tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,158463.4481,56948.39375,35.9%
+31005,East African montane moorlands,Montane Grasslands & Shrublands,Afrotropics,3295.288437,2390.4437199999998,72.5%
+60133,Juruá-Purus moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,243089.4415,87798.65215,36.1%
+50511,Colorado Rockies forests,Temperate Conifer Forests,Nearctic,133038.8564,21122.25473,15.9%
+81212,Mediterranean acacia-argania dry woodlands and succulent thickets,"Mediterranean Forests, Woodlands & Scrub",Palearctic,100304.5396,18023.265580000003,18.0%
+61007,Santa Marta páramo,Montane Grasslands & Shrublands,Neotropics,1246.4186339999999,1216.077733,97.6%
+80905,Saharan halophytics,Flooded Grasslands & Savannas,Palearctic,54031.44251,13690.404680000001,25.3%
+30108,East African montane forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,65637.16545,20433.87516,31.1%
+50508,Central and Southern Cascades forests,Temperate Conifer Forests,Nearctic,44952.30749,9128.669311,20.3%
+51107,Beringia upland tundra,Tundra,Nearctic,97577.95746,42508.236469999996,43.6%
+61316,Tehuacán Valley matorral,Deserts & Xeric Shrublands,Neotropics,9914.404436,1602.686588,16.2%
+40103,Borneo montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,115850.66,28291.946,24.4%
+40160,Sumatran peat swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,87706.04712,6644.329653,7.6%
+60309,Sierra Madre del Sur pine-oak forests,Tropical & Subtropical Coniferous Forests,Neotropics,61311.0975,1787.144146,2.9%
+30127,"Sao Tome, Principe and Annobon moist lowland forests",Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,1039.26947,323.5510886,31.1%
+81022,Yarlung Tsangpo arid steppe,Montane Grasslands & Shrublands,Palearctic,59591.217189999996,13481.66689,22.6%
+80430,Northeast China Plain deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,232980.7561,10334.7004,4.4%
+31006,Eastern Zimbabwe montane forest-grassland mosaic,Montane Grasslands & Shrublands,Afrotropics,7845.491356999999,1109.528445,14.1%
+80432,Po Basin mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,42459.17009,3582.6448920000003,8.4%
+51305,Great Basin shrub steppe,Deserts & Xeric Shrublands,Nearctic,336627.4797,28585.10898,8.5%
+60164,South Florida rocklands,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,2079.577791,358.8474682,17.3%
+60150,Alto Paraná Atlantic forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,485092.8725,27688.57918,5.7%
+60222,Maracaibo dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,30275.00325,9728.280264,32.1%
+31402,East African mangroves,Mangroves,Afrotropics,16107.72164,4916.687624,30.5%
+80402,Atlantic mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,400042.2208,81204.39709,20.3%
+60114,Chimalapas montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,2088.348121,278.9619295,13.4%
+50401,Allegheny Highlands forests,Temperate Broadleaf & Mixed Forests,Nearctic,84071.33372000001,2602.018491,3.1%
+31002,Angolan scarp savanna and woodlands,Montane Grasslands & Shrublands,Afrotropics,74527.50149,8642.835386,11.6%
+30201,Cape Verde Islands dry forests,Tropical & Subtropical Dry Broadleaf Forests,Afrotropics,4574.182629,107.79606340000001,2.4%
+81006,Karakoram-West Tibetan Plateau alpine steppe,Montane Grasslands & Shrublands,Palearctic,143602.1683,26445.028440000002,18.4%
+80801,Alai-Western Tian Shan steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,127804.5529,6416.7734789999995,5.0%
+60129,Isthmian-Atlantic moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,58727.31194,20590.76613,35.1%
+50601,Alaska Peninsula montane taiga,Boreal Forests/Taiga,Nearctic,47911.88274,39733.364839999995,82.9%
+51313,Wyoming Basin shrub steppe,Deserts & Xeric Shrublands,Nearctic,132661.6015,4571.58778,3.4%
+81322,Paropamisus xeric woodlands,Deserts & Xeric Shrublands,Palearctic,92803.49172,457.8256608,0.5%
+51201,California coastal sage and chaparral,"Mediterranean Forests, Woodlands & Scrub",Nearctic,36348.830310000005,3490.056703,9.6%
+80506,East Afghan montane conifer forests,Temperate Conifer Forests,Palearctic,20128.37741,903.7621991000001,4.5%
+61308,Guajira-Barranquilla xeric scrub,Deserts & Xeric Shrublands,Neotropics,31673.88784,1533.063823,4.8%
+70112,Samoan tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,3100.939889,231.17011319999997,7.5%
+30122,Niger Delta swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,14438.39969,1180.7556949999998,8.2%
+60135,Madeira-Tapajós moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,721256.4207,301767.8545,41.8%
+50615,South Avalon-Burin oceanic barrens,Boreal Forests/Taiga,Nearctic,2034.500493,95.77597829,4.7%
+51101,Alaska-St. Elias Range tundra,Tundra,Nearctic,152145.5306,67964.70202000001,44.7%
+60163,Solimões-Japurá moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,168052.4438,45188.3214,26.9%
+51116,Ogilvie-MacKenzie alpine tundra,Tundra,Nearctic,208933.30800000002,24010.23685,11.5%
+60210,Dry Chaco,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,790164.6168,88780.05602999999,11.2%
+60116,Cocos Island moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,24.92858165,24.92858165,100.0%
+81221,Southwest Iberian Mediterranean sclerophyllous and mixed forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,71237.29855,15190.07491,21.3%
+70113,Society Islands tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,1629.420884,40.90627345,2.5%
+31012,Maputaland-Pondoland bushland and thickets,Montane Grasslands & Shrublands,Afrotropics,19576.67357,400.7366151,2.0%
+50303,Sierra Madre Oriental pine-oak forests,Tropical & Subtropical Coniferous Forests,Nearctic,65777.8197,16498.26055,25.1%
+81010,Mediterranean High Atlas juniper steppe,Montane Grasslands & Shrublands,Palearctic,6346.702823,1686.5587600000001,26.6%
+81020,Tibetan Plateau alpine shrublands and meadows,Montane Grasslands & Shrublands,Palearctic,272731.2733,161685.2192,59.3%
+50811,Northern short grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,639830.6177,22432.84469,3.5%
+40111,Eastern highlands moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,341897.7909,16850.3327,4.9%
+81103,Cherskii-Kolyma mountain tundra,Tundra,Palearctic,558029.681,74485.80159,13.3%
+81307,Baluchistan xeric woodlands,Deserts & Xeric Shrublands,Palearctic,289391.4003,9110.920306,3.1%
+50402,Appalachian mixed mesophytic forests,Temperate Broadleaf & Mixed Forests,Nearctic,192583.8406,5623.729114,2.9%
+60235,Yucatán dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,49875.937860000005,1727.296234,3.5%
+51108,Brooks-British Range tundra,Tundra,Nearctic,159867.668,102362.9326,64.0%
+11206,Mount Lofty woodlands,"Mediterranean Forests, Woodlands & Scrub",Australasia,23837.515669999997,2149.7995149999997,9.0%
+31320,Southwestern Arabian foothills savanna,Deserts & Xeric Shrublands,Afrotropics,275269.9736,1803.544111,0.7%
+80908,Yellow Sea saline meadow,Flooded Grasslands & Savannas,Palearctic,5334.083974,2303.83177,43.2%
+50414,Southern Great Lakes forests,Temperate Broadleaf & Mixed Forests,Nearctic,245023.4249,2449.542566,1.0%
+81105,Kamchatka Mountain tundra and forest tundra,Tundra,Palearctic,119568.0208,25490.79826,21.3%
+60122,Eastern Panamanian montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,3050.8435289999998,2169.006651,71.1%
+40166,Upper Gangetic Plains moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,263683.3396,3551.573097,1.3%
+31311,Madagascar spiny thickets,Deserts & Xeric Shrublands,Afrotropics,43487.253619999996,908.6821336000002,2.1%
+30705,East Sudanian savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,919584.5825,223959.7572,24.4%
+60107,Caqueta moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,184592.7774,61636.58005,33.4%
+81208,Iberian conifer forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,34501.97088,15247.309659999999,44.2%
+80814,Pontic steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,996293.8844,48108.27146,4.8%
+60103,Bahia coastal forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,109917.3021,7820.272293000001,7.1%
+50614,Northwest Territories taiga,Boreal Forests/Taiga,Nearctic,346646.0553,29731.288760000003,8.6%
+81007,Khangai Mountains alpine meadow,Montane Grasslands & Shrublands,Palearctic,37146.57205,12668.44719,34.1%
+30128,Southern Zanzibar-Inhambane coastal forest mosaic,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,147280.682,20865.90857,14.2%
+40106,Cardamom Mountains rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,44344.79787,18689.03164,42.1%
+80610,Ural montane forests and tundra,Boreal Forests/Taiga,Palearctic,174996.0548,35509.23567,20.3%
+30117,Madagascar lowland forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,112352.286,10800.02762,9.6%
+60219,Lara-Falcón dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,16975.43667,6635.679755,39.1%
+51111,Interior Yukon-Alaska alpine tundra,Tundra,Nearctic,233171.7746,39569.47456,17.0%
+80438,South Sakhalin-Kurile mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,12558.65522,2722.3005980000003,21.7%
+80815,Sayan Intermontane steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,34012.06745,3386.473654,10.0%
+81211,Italian sclerophyllous and semi-deciduous forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,102278.3076,18849.70585,18.4%
+10101,Admiralty Islands lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,2112.6465550000003,36.09299971,1.7%
+50602,Central Canadian Shield forests,Boreal Forests/Taiga,Nearctic,462758.0765,27804.260589999998,6.0%
+80101,Guizhou Plateau broadleaf and mixed forests,Tropical & Subtropical Moist Broadleaf Forests,Palearctic,270138.7503,29308.89556,10.8%
+61402,Bahamian-Antillean mangroves,Mangroves,Neotropics,17945.543999999998,6851.172441,38.2%
+30130,Western Guinean lowland forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,205560.693,24081.55991,11.7%
+81021,Western Himalayan alpine shrub and Meadows,Montane Grasslands & Shrublands,Palearctic,70319.87006,16329.49033,23.2%
+11401,New Guinea mangroves,Mangroves,Australasia,26884.66195,5846.8518,21.7%
+30801,Al Hajar montane woodlands,"Temperate Grasslands, Savannas & Shrublands",Afrotropics,25604.24835,297.30090970000003,1.2%
+80445,Western European broadleaf forests,Temperate Broadleaf & Mixed Forests,Palearctic,493458.0003,146705.5255,29.7%
+50408,Gulf of St. Lawrence lowland forests,Temperate Broadleaf & Mixed Forests,Nearctic,39504.20114,1279.04493,3.2%
+10115,Northern New Guinea lowland rain and freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,135535.9801,15356.71615,11.3%
+50516,Klamath-Siskiyou forests,Temperate Conifer Forests,Nearctic,50412.13592,7409.636151000001,14.7%
+60151,Pernambuco coastal forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,17614.02826,1753.975312,10.0%
+31003,Drakensberg alti-montane grasslands and woodlands,Montane Grasslands & Shrublands,Afrotropics,11934.26209,778.2285214999999,6.5%
+50805,Central tall grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,248997.8613,4085.2890420000003,1.6%
+80502,Altai montane forest and forest steppe,Temperate Conifer Forests,Palearctic,142768.7257,19780.5961,13.9%
+81321,North Saharan steppe and woodlands,Deserts & Xeric Shrublands,Palearctic,1679837.07,60887.31653,3.6%
+30103,Cameroonian Highlands forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,38128.101,2974.886012,7.8%
+81206,Cyprus Mediterranean forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,9293.961717,1674.0250640000002,18.0%
+81314,Eastern Gobi desert steppe,Deserts & Xeric Shrublands,Palearctic,282447.679,10647.68703,3.8%
+60160,Serra do Mar coastal forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,105069.4661,35153.04975,33.5%
+60121,Eastern Cordillera real montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,102745.2764,21733.03725,21.2%
+40105,Brahmaputra Valley semi-evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,56840.464589999996,2830.583959,5.0%
+81313,Central Persian desert basins,Deserts & Xeric Shrublands,Palearctic,582193.4509,52691.474839999995,9.1%
+30803,Tristan Da Cunha-Gough Islands shrub and grasslands,"Temperate Grasslands, Savannas & Shrublands",Afrotropics,167.68668169999998,80.40833713,48.0%
+50607,Interior Alaska-Yukon lowland taiga,Boreal Forests/Taiga,Nearctic,444367.8457,147369.2942,33.2%
+40403,Western Himalayan broadleaf forests,Temperate Broadleaf & Mixed Forests,IndoMalay,55986.07282,4083.183968,7.3%
+30710,Mandara Plateau mosaic,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,7525.565062999999,16.29289512,0.2%
+80505,Da Hinggan-Dzhagdy Mountains conifer forests,Temperate Conifer Forests,Palearctic,248876.6194,39697.83313,16.0%
+70106,Hawaii tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,6751.772007,908.776597,13.5%
+40402,Northern Triangle temperate forests,Temperate Broadleaf & Mixed Forests,IndoMalay,10750.29373,4368.913046,40.6%
+30725,Zambezian and Mopane woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,474353.9432,189353.5534,39.9%
+81204,Corsican montane broadleaf and mixed forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,3636.165911,2830.749456,77.8%
+61405,South American Pacific mangroves,Mangroves,Neotropics,13550.59132,2149.6642420000003,15.9%
+30902,Etosha Pan halophytics,Flooded Grasslands & Savannas,Afrotropics,7246.752053,7179.185167000001,99.1%
+31404,Madagascar mangroves,Mangroves,Afrotropics,5216.850135000001,226.6275424,4.3%
+81304,Atlantic coastal desert,Deserts & Xeric Shrublands,Palearctic,40078.5806,7339.770895999999,18.3%
+31401,Central African mangroves,Mangroves,Afrotropics,30995.898889999997,7278.968986,23.5%
+61005,Cordillera de Merida páramo,Montane Grasslands & Shrublands,Neotropics,2815.580654,2203.348079,78.3%
+81330,Taklimakan desert,Deserts & Xeric Shrublands,Palearctic,743533.6036,90537.41482,12.2%
+11101,Antipodes Subantarctic Islands tundra,Tundra,Australasia,876.3948373,876.3948373,100.0%
+30115,Knysna-Amatole montane forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,3069.352754,657.7496926,21.4%
+10118,Seram rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,19404.944919999998,2004.7508109999999,10.3%
+60113,Chiapas montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,5791.217908,273.6870139,4.7%
+60175,Venezuelan Andes montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,29456.91717,17163.18659,58.3%
+60182,Guianan piedmont and lowland moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,231364.6928,181498.9899,78.4%
+10703,Cape York Peninsula tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,116586.0538,36164.805510000006,31.0%
+50814,Texas blackland prairies,"Temperate Grasslands, Savannas & Shrublands",Nearctic,50367.43482,202.9259376,0.4%
+50812,Northern tall grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,76193.73887999999,6700.090896,8.8%
+31309,Kalahari xeric savanna,Deserts & Xeric Shrublands,Afrotropics,589416.6334,74227.18764,12.6%
+81017,Southeast Tibet shrublands and meadows,Montane Grasslands & Shrublands,Palearctic,461851.0092,161187.484,34.9%
+40162,Sundarbans freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,14593.495369999999,235.07120690000002,1.6%
+40701,Terai-Duar savanna and grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",IndoMalay,34656.85856,4538.5874619999995,13.1%
+80503,Caledon conifer forests,Temperate Conifer Forests,Palearctic,22051.4972,10115.84689,45.9%
+60136,Magdalena Valley montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,105288.8296,13614.196740000001,12.9%
+60707,Guianan savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,105195.3501,53493.057310000004,50.9%
+50527,Sierra Nevada forests,Temperate Conifer Forests,Nearctic,52951.301439999996,15988.60518,30.2%
+80439,Southern Korea evergreen forests,Temperate Broadleaf & Mixed Forests,Palearctic,14759.32805,631.9844087,4.3%
+81326,Registan-North Pakistan sandy desert,Deserts & Xeric Shrublands,Palearctic,277915.7316,4138.559929,1.5%
+10108,Yapen rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,2422.863895,1135.251041,46.9%
+40102,Borneo lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,428438.3343,33547.76637,7.8%
+40135,North Western Ghats montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,31003.24989,5342.742122,17.2%
+60176,Veracruz moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,69280.88662,2608.719409,3.8%
+11209,Southwest Australia savanna,"Mediterranean Forests, Woodlands & Scrub",Australasia,169271.4467,12067.23588,7.1%
+80518,Qionglai-Minshan conifer forests,Temperate Conifer Forests,Palearctic,80394.13506,16936.81982,21.1%
+30713,Sahelian Acacia savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,3060234.3030000003,331666.9591,10.8%
+80816,Selenge-Orkhon forest steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,228158.9002,12133.2287,5.3%
+41401,Goadavari-Krishna mangroves,Mangroves,IndoMalay,7019.193528,1217.052738,17.3%
+60149,Guianan freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,7741.106318000001,611.4206282,7.9%
+60126,Gurupa varzeá,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,9947.357761,4555.512711,45.8%
+60102,Atlantic Coast restingas,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,7885.7263219999995,1094.782144,13.9%
+60146,Oaxacan montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,7617.870319,219.8095127,2.9%
+50409,Mississippi lowland forests,Temperate Broadleaf & Mixed Forests,Nearctic,112534.8228,4748.875503,4.2%
+30726,Zambezian Baikiaea woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,265015.6227,84342.27602,31.8%
+80409,Celtic broadleaf forests,Temperate Broadleaf & Mixed Forests,Palearctic,209614.4238,42471.05292,20.3%
+10111,New Britain-New Ireland lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,35147.104360000005,1028.4183970000001,2.9%
+40211,Southern Vietnam lowland dry forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,35114.12473,2087.83351,5.9%
+50808,Montana Valley and Foothill grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,81890.05825,985.3609902999999,1.2%
+30905,Saharan flooded grasslands,Flooded Grasslands & Savannas,Afrotropics,180112.1587,38230.592619999996,21.2%
+81106,Kola Peninsula tundra,Tundra,Palearctic,58896.25242999999,4684.720608,8.0%
+81222,Tyrrhenian-Adriatic Sclerophyllous and mixed forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,85190.53053999999,18632.195180000002,21.9%
+30703,Ascension scrub and grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,93.58490221,14.98761291,16.0%
+60117,Cordillera La Costa montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,14371.757590000001,10413.15835,72.5%
+30702,Angolan Mopane woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,133754.2897,28241.348410000002,21.1%
+60904,Everglades,Flooded Grasslands & Savannas,Neotropics,20110.93428,8337.178909,41.5%
+30901,East African halophytics,Flooded Grasslands & Savannas,Afrotropics,2643.2947870000003,1251.823448,47.4%
+81110,Scandinavian Montane Birch forest and grasslands,Tundra,Palearctic,243811.2244,74183.72885,30.4%
+81015,Qilian Mountains subalpine meadows,Montane Grasslands & Shrublands,Palearctic,73393.11117,18640.03057,25.4%
+51203,California montane chaparral and woodlands,"Mediterranean Forests, Woodlands & Scrub",Nearctic,20453.83538,5020.972236,24.5%
+70111,Rapa Nui subtropical broadleaf forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,178.7390808,47.64682108,26.7%
+80412,Central European mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,732907.0972,143376.7156,19.6%
+81327,Sahara desert,Deserts & Xeric Shrublands,Palearctic,4650157.541999999,173880.456,3.7%
+30717,Southern Africa bushveld,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,223597.9247,45242.34839,20.2%
+50412,Ozark Mountain forests,Temperate Broadleaf & Mixed Forests,Nearctic,62150.201279999994,8471.721114,13.6%
+50509,Central British Columbia Mountain forests,Temperate Conifer Forests,Nearctic,71913.74711,6471.518591,9.0%
+40172,Taiwan subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,33473.50731,6762.251293000001,20.2%
+40170,Nansei Islands subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,4079.287473,815.1858743,20.0%
+80403,Azores temperate mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,2620.942594,621.6171132000001,23.7%
+41302,Indus Valley desert,Deserts & Xeric Shrublands,IndoMalay,19540.00535,12214.18027,62.5%
+60104,Bahia interior forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,230478.8264,8963.716136,3.9%
+60304,Cuban pine forests,Tropical & Subtropical Coniferous Forests,Neotropics,6435.866452,420.131397,6.5%
+61003,Central Andean wet puna,Montane Grasslands & Shrublands,Neotropics,117573.9899,24810.21185,21.1%
+50520,Northern Pacific coastal forests,Temperate Conifer Forests,Nearctic,60589.19734,38875.73221,64.2%
+60167,Talamancan montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,16378.37481,9810.852608,59.9%
+81104,Chukchi Peninsula tundra,Tundra,Palearctic,298808.0377,31040.781610000002,10.4%
+50613,Northern Cordillera forests,Boreal Forests/Taiga,Nearctic,263393.8359,47089.89353,17.9%
+11308,Simpson desert,Deserts & Xeric Shrublands,Australasia,585791.9225,119564.8987,20.4%
+60218,Jamaican dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,2322.0889190000003,459.7847598999999,19.8%
+10803,Southeast Australia temperate savanna,"Temperate Grasslands, Savannas & Shrublands",Australasia,322944.797,13095.4785,4.1%
+50502,Alberta-British Columbia foothills forests,Temperate Conifer Forests,Nearctic,120739.0982,1735.017161,1.4%
+81012,Northwestern Himalayan alpine shrub and meadows,Montane Grasslands & Shrublands,Palearctic,49514.70068,5750.308652000001,11.6%
+70203,Marianas tropical dry forests,Tropical & Subtropical Dry Broadleaf Forests,Oceania,1038.198469,157.6072966,15.2%
+60802,Low Monte,"Temperate Grasslands, Savannas & Shrublands",Neotropics,354191.5935,19900.740680000003,5.6%
+10106,Halmahera rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,26924.577660000003,2055.52492,7.6%
+81107,Northeast Siberian coastal tundra,Tundra,Palearctic,223095.0325,51175.245010000006,22.9%
+60154,Petén-Veracruz moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,149421.3313,42425.22925,28.4%
+50804,Central forest-grasslands transition,"Temperate Grasslands, Savannas & Shrublands",Nearctic,407905.5663,5760.267021,1.4%
+50701,Western Gulf coastal grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Nearctic,80803.13011,8397.793264,10.4%
+31015,Southern Rift montane forest-grassland mosaic,Montane Grasslands & Shrublands,Afrotropics,33570.677560000004,6790.008039,20.2%
+60232,Tumbes-Piura dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,41372.47813,3757.8460259999997,9.1%
+40141,Northern Vietnam lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,22643.45189,1495.2810279999999,6.6%
+60233,Veracruz dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,6650.757796,234.6717914,3.5%
+81303,Arabian Desert and East Sahero-Arabian xeric shrublands,Deserts & Xeric Shrublands,Palearctic,1855465.832,70987.71104,3.8%
+51117,Pacific Coastal Mountain icefields and tundra,Tundra,Nearctic,107014.4197,62461.39736,58.4%
+10105,Central Range montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,172365.0602,24240.63234,14.1%
+60138,Marajó varzeá,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,88899.41218,58444.70581,65.7%
+11208,Naracoorte woodlands,"Mediterranean Forests, Woodlands & Scrub",Australasia,27570.29179,2773.718271,10.1%
+80437,Sichuan Basin evergreen broadleaf forests,Temperate Broadleaf & Mixed Forests,Palearctic,98335.88987,3690.6365229999997,3.8%
+50606,Eastern Canadian Shield taiga,Boreal Forests/Taiga,Nearctic,755527.1332,26531.43754,3.5%
+81318,Kazakh semi-desert,Deserts & Xeric Shrublands,Palearctic,679943.7364,7619.337233,1.1%
+60124,Guianan Highlands moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,146932.6409,104117.7214,70.9%
+30109,Eastern Arc forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,23709.93681,4398.716496,18.6%
+50201,Sonoran-Sinaloan transition subtropical dry forest,Tropical & Subtropical Dry Broadleaf Forests,Nearctic,51094.66242,2033.511425,4.0%
+81102,Bering tundra,Tundra,Palearctic,475306.5265,43618.316380000004,9.2%
+40212,Sri Lanka dry-zone dry evergreen forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,48525.83698,17774.41581,36.6%
+80904,Nile Delta flooded savanna,Flooded Grasslands & Savannas,Palearctic,51138.26878,301.6725973,0.6%
+50506,British Columbia mainland coastal forests,Temperate Conifer Forests,Nearctic,137530.3971,33965.812439999994,24.7%
+50522,Okanagan dry forests,Temperate Conifer Forests,Nearctic,53438.0016,1654.973571,3.1%
+81109,Novosibirsk Islands arctic desert,Tundra,Palearctic,37031.7349,37027.99483,100.0%
+40153,Southwest Borneo freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,36849.30299,4345.0227939999995,11.8%
+81218,South Appenine mixed montane forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,13112.272840000001,6016.276172,45.9%
+10702,Brigalow tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,343069.9647,13486.084009999999,3.9%
+40110,Christmas and Cocos Islands tropical forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,134.8055449,12.73672065,9.4%
+80408,Caucasus mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,170663.1568,30607.07809,17.9%
+80812,Middle East steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,132589.3954,1188.3191769999999,0.9%
+50507,Cascade Mountains leeward forests,Temperate Conifer Forests,Nearctic,46399.20319,13197.37201,28.4%
+40143,Palawan rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,14368.77816,11733.846759999999,81.7%
+30125,Northern Zanzibar-Inhambane coastal forest mosaic,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,112893.439,23313.80413,20.7%
+81101,Arctic desert,Tundra,Palearctic,161815.3142,60701.43023,37.5%
+60170,Tocantins/Pindare moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,194056.1438,36993.86323,19.1%
+30116,KwaZulu-Cape coastal forest mosaic,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,17836.0723,566.1380738,3.2%
+80431,Pannonian mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,307594.9464,65151.73307,21.2%
+60307,Sierra de la Laguna pine-oak forests,Tropical & Subtropical Coniferous Forests,Neotropics,1065.9610050000001,671.4573119,63.0%
+51202,California interior chaparral and woodlands,"Mediterranean Forests, Woodlands & Scrub",Nearctic,64732.42435,5381.243985,8.3%
+11205,Swan Coastal Plain Scrub and Woodlands,"Mediterranean Forests, Woodlands & Scrub",Australasia,15258.941630000001,1956.992241,12.8%
+50610,Muskwa-Slave Lake forests,Boreal Forests/Taiga,Nearctic,262908.1429,23922.092959999998,9.1%
+40126,Meghalaya subtropical forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,41804.00968,456.69234819999997,1.1%
+61406,Southern Atlantic mangroves,Mangroves,Neotropics,10080.29992,2650.963307,26.3%
+50521,Northern transitional alpine forests,Temperate Conifer Forests,Nearctic,25717.80113,1259.091914,4.9%
+40304,Sumatran tropical pine forests,Tropical & Subtropical Coniferous Forests,IndoMalay,2766.369802,1092.849226,39.5%
+61303,Atacama desert,Deserts & Xeric Shrublands,Neotropics,105405.9994,1701.203122,1.6%
+50526,Sierra Juarez and San Pedro Martir pine-oak forests,Temperate Conifer Forests,Nearctic,4014.070714,683.4293887,17.0%
+60148,Pantanos de Centla,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,17246.00266,5657.105807,32.8%
+30104,Central Congolian lowland forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,415656.9706,82757.18047,19.9%
+60152,Pernambuco interior forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,22741.86836,701.3256745,3.1%
+60224,Panamanian dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,5120.331288,73.67222779,1.4%
+40112,Eastern Java-Bali montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,15931.771830000002,1528.870876,9.6%
+10102,Banda Sea Islands moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,7544.593186,989.0368793,13.1%
+80519,Sayan montane conifer forests,Temperate Conifer Forests,Palearctic,358213.1508,65964.14022,18.4%
+80436,Sarmatic mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,848070.5697,84828.52397000001,10.0%
+10204,Timor and Wetar deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,Australasia,33595.40894,2376.34409,7.1%
+70702,Hawaii tropical low shrublands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Oceania,1525.179877,155.25934980000002,10.2%
+40502,Western Himalayan subalpine conifer forests,Temperate Conifer Forests,IndoMalay,39764.42592,3431.009895,8.6%
+11201,Coolgardie woodlands,"Mediterranean Forests, Woodlands & Scrub",Australasia,137681.2258,14937.221090000001,10.8%
+40101,Andaman Islands rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,5730.508158,338.497406,5.9%
+80404,Balkan mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,224875.6972,36814.98378,16.4%
+81014,Pamir alpine desert and tundra,Montane Grasslands & Shrublands,Palearctic,118222.464,25468.572630000002,21.5%
+10117,Queensland tropical rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,32767.78061,13490.483209999999,41.2%
+80608,Scandinavian and Russian taiga,Boreal Forests/Taiga,Palearctic,2161975.901,178002.3137,8.2%
+40125,Maldives-Lakshadweep-Chagos Archipelago tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,545.5457144999999,78.20978423,14.3%
+60801,Espinal,"Temperate Grasslands, Savannas & Shrublands",Neotropics,299481.9328,4860.050742,1.6%
+81011,North Tibetan Plateau-Kunlun Mountains alpine desert,Montane Grasslands & Shrublands,Palearctic,375267.0026,239528.98,63.8%
+50504,Atlantic coastal pine barrens,Temperate Conifer Forests,Nearctic,8984.990096,2693.011928,30.0%
+31313,Masai xeric grasslands and shrublands,Deserts & Xeric Shrublands,Afrotropics,101179.1103,6832.983151,6.8%
+30711,Northern Acacia-Commiphora bushlands and thickets,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,326658.4841,64281.90102999999,19.7%
+60134,Leeward Islands moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,991.9919067,756.6681354,76.3%
+30113,Granitic Seychelles forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,311.7414381,37.70410338,12.1%
+30907,Zambezian flooded grasslands,Flooded Grasslands & Savannas,Afrotropics,153788.7218,99140.22506,64.5%
+60166,Southwest Amazon moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,751378.9523,342909.9318,45.6%
+80606,Okhotsk-Manchurian taiga,Boreal Forests/Taiga,Palearctic,402909.3258,32589.817560000003,8.1%
+30718,Southern Congolian forest-savanna mosaic,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,570928.4027,19973.19302,3.5%
+50810,Northern mixed grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,219440.8634,11337.27582,5.2%
+80419,East European forest steppe,Temperate Broadleaf & Mixed Forests,Palearctic,728841.7474,36070.085289999995,4.9%
+80410,Central Anatolian steppe and woodlands,Temperate Broadleaf & Mixed Forests,Palearctic,101640.8862,383.3236126,0.4%
+40210,Southeastern Indochina dry evergreen forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,124530.4394,28272.643780000002,22.7%
+40138,Northern Khorat Plateau moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,16886.01134,379.547123,2.2%
+81108,Northwest Russian-Novaya Zemlya tundra,Tundra,Palearctic,284899.1155,19843.45466,7.0%
+10709,Victoria Plains tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,226131.1204,16270.497669999999,7.2%
+70109,Ogasawara subtropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,96.64214932,73.4185713,76.0%
+81317,Junggar Basin semi-desert,Deserts & Xeric Shrublands,Palearctic,304897.6035,32542.340669999998,10.7%
+80425,Madeira evergreen forests,Temperate Broadleaf & Mixed Forests,Palearctic,816.5105256,484.50726629999997,59.3%
+41405,Sunda Shelf mangroves,Mangroves,IndoMalay,37529.48005,6068.466082,16.2%
+60158,Rio Negro campinarana,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,96631.80623,51427.69963,53.2%
+30701,Angolan Miombo woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,661519.6897,35566.56475,5.4%
+80602,Iceland boreal birch forests and alpine tundra,Boreal Forests/Taiga,Palearctic,91680.6827,10691.7304,11.7%
+80605,Northeast Siberian taiga,Boreal Forests/Taiga,Palearctic,1128414.915,120828.8657,10.7%
+61314,San Lucan xeric scrub,Deserts & Xeric Shrublands,Neotropics,3884.956681,635.2138841,16.4%
+41402,Indochina mangroves,Mangroves,IndoMalay,26928.99161,1671.8040310000001,6.2%
+50809,Nebraska Sand Hills mixed grasslands,"Temperate Grasslands, Savannas & Shrublands",Nearctic,61255.46399,1112.1312380000002,1.8%
+60131,Jamaican moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,8314.433183,1133.2970269999998,13.6%
+81328,South Iran Nubo-Sindian desert and semi-desert,Deserts & Xeric Shrublands,Palearctic,352233.6683,21814.67927,6.2%
+10122,Southern New Guinea lowland rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,123143.056,5853.814769,4.8%
+40142,Orissa semi-evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,22341.6093,1603.044325,7.2%
+61008,Southern Andean steppe,Montane Grasslands & Shrublands,Neotropics,125189.6789,26159.59126,20.9%
+40145,Peninsular Malaysian peat swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,3634.3165740000004,142.30381699999998,3.9%
+81316,Great Lakes Basin desert steppe,Deserts & Xeric Shrublands,Palearctic,157569.9547,32239.02286,20.5%
+60156,Purus varzeá,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,177935.7268,76482.55704,43.0%
+30720,St. Helena scrub and woodlands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,130.7755246,35.58040468,27.2%
+50806,Edwards Plateau savanna,"Temperate Grasslands, Savannas & Shrublands",Nearctic,61937.08983,150.70897050000002,0.2%
+10407,Rakiura Island temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,1694.2672949999999,1315.3277970000001,77.6%
+51115,Middle Arctic tundra,Tundra,Nearctic,1035232.2990000001,50944.154839999996,4.9%
+61311,Malpelo Island xeric scrub,Deserts & Xeric Shrublands,Neotropics,7.706705735,7.706705735,100.0%
+51106,Beringia lowland tundra,Tundra,Nearctic,151292.6591,100129.8378,66.2%
+11304,Great Sandy-Tanami desert,Deserts & Xeric Shrublands,Australasia,824816.6638,260978.6559,31.6%
+40128,Mindanao montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,18238.08859,4297.389552000001,23.6%
+80512,Khangai Mountains conifer forests,Temperate Conifer Forests,Palearctic,2899.627481,1262.363531,43.5%
+80507,Elburz Range forest steppe,Temperate Conifer Forests,Palearctic,63407.2393,6130.309656,9.7%
+81203,Canary Islands dry woodlands and forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,4985.4078469999995,2571.714786,51.6%
+11309,Tirari-Sturt stony desert,Deserts & Xeric Shrublands,Australasia,377728.4772,30933.824539999998,8.2%
+10802,Eastern Australia mulga shrublands,"Temperate Grasslands, Savannas & Shrublands",Australasia,254478.3199,8913.902028,3.5%
+51114,Low Arctic tundra,Tundra,Nearctic,798398.7406,128841.9759,16.1%
+60708,Humid Chaco,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,292776.767,18044.08864,6.2%
+30121,Mount Cameroon and Bioko montane forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,1148.7209699999999,737.5505847000001,64.2%
+50417,Willamette Valley forests,Temperate Broadleaf & Mixed Forests,Nearctic,14883.635730000002,191.5453977,1.3%
+60207,Cauca Valley dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,7361.348261,44.56122729,0.6%
+81331,Tibesti-Jebel Uweinat montane xeric woodlands,Deserts & Xeric Shrublands,Palearctic,82418.5699,239.22288569999998,0.3%
+10112,New Britain-New Ireland montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,12161.2646,65.06041271,0.5%
+80421,English Lowlands beech forests,Temperate Broadleaf & Mixed Forests,Palearctic,45701.2077,14639.77051,32.0%
+60127,Hispaniolan moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,46057.23127,3253.852966,7.1%
+10707,Mitchell grass downs,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,461758.2184,11163.63795,2.4%
+80509,Hengduan Mountains subalpine conifer forests,Temperate Conifer Forests,Palearctic,99641.42027999999,11389.14343,11.4%
+80504,Carpathian montane forests,Temperate Conifer Forests,Palearctic,125250.6575,49066.65138,39.2%
+40108,Chao Phraya lowland moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,20459.31266,2762.5083019999997,13.5%
+70110,Palau tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,462.7433467,115.62488799999998,25.0%
+60125,Guianan moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,479320.4982,162274.1812,33.9%
+60140,Mato Grosso seasonal forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,414912.41799999995,103062.0354,24.8%
+80604,Kamchatka-Kurile taiga,Boreal Forests/Taiga,Palearctic,15255.850209999999,2736.705961,17.9%
+11307,Pilbara shrublands,Deserts & Xeric Shrublands,Australasia,180182.0951,11725.6529,6.5%
+81013,Ordos Plateau steppe,Montane Grasslands & Shrublands,Palearctic,215952.1311,7964.559236,3.7%
+60903,Enriquillo wetlands,Flooded Grasslands & Savannas,Neotropics,631.8210237000001,399.3662387,63.2%
+50510,Central Pacific coastal forests,Temperate Conifer Forests,Nearctic,73823.24872,7803.821384000001,10.6%
+31312,Madagascar succulent woodlands,Deserts & Xeric Shrublands,Afrotropics,79875.20802,1863.058452,2.3%
+40137,Northern Indochina subtropical forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,437969.973,30792.363269999998,7.0%
+30903,Inner Niger Delta flooded savanna,Flooded Grasslands & Savannas,Afrotropics,46132.89348,23305.69856,50.5%
+30123,Nigerian lowland forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,67482.13749,11783.06682,17.5%
+81113,Wrangel Island arctic desert,Tundra,Palearctic,7548.005770999999,7547.846262,100.0%
+10410,South Island temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,11710.98134,2400.355951,20.5%
+10706,Kimberly tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,348611.5118,88647.80771000001,25.4%
+60401,Juan Fernández Islands temperate forests,Temperate Broadleaf & Mixed Forests,Neotropics,146.2359424,44.18007006,30.2%
+80609,Trans-Baikal conifer forests,Boreal Forests/Taiga,Palearctic,200904.3518,36810.66368,18.3%
+80511,Honshu alpine conifer forests,Temperate Conifer Forests,Palearctic,11522.85855,5097.829446,44.2%
+40109,Chin Hills-Arakan Yoma montane forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,29763.748939999998,1769.4757350000002,5.9%
+40202,Central Indochina dry forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,320778.7887,31795.68995,9.9%
+60171,Trinidad and Tobago moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,4751.7170289999995,1452.643503,30.6%
+81210,Illyrian deciduous forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,40665.3926,9170.381872,22.6%
+60112,Central American montane forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,13328.89492,5649.230751,42.4%
+51308,Mojave desert,Deserts & Xeric Shrublands,Nearctic,130927.40699999999,57283.245129999996,43.8%
+60404,Valdivian temperate forests,Temperate Broadleaf & Mixed Forests,Neotropics,248651.44199999998,54834.44535,22.1%
+81320,Mesopotamian shrub desert,Deserts & Xeric Shrublands,Palearctic,211445.2265,599.4565746000001,0.3%
+61001,Central Andean dry puna,Montane Grasslands & Shrublands,Neotropics,256197.6467,40137.97715,15.7%
+30118,Madagascar subhumid forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,200020.9728,10175.37168,5.1%
+60111,Central American Atlantic moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,89978.46011,41441.299119999996,46.1%
+40147,Red River freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,10778.22126,95.80345613,0.9%
+41304,Thar desert,Deserts & Xeric Shrublands,IndoMalay,239183.0555,41996.18865,17.6%
+30110,Eastern Congolian swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,92936.83907,23143.79324,24.9%
+60308,Sierra Madre de Oaxaca pine-oak forests,Tropical & Subtropical Coniferous Forests,Neotropics,14377.625769999999,906.4965277999999,6.3%
+80424,Huang He Plain mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,435173.666,14185.14187,3.3%
+70108,Marquesas tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,1081.0062599999999,36.88782983,3.4%
+81333,Red Sea coastal desert,Deserts & Xeric Shrublands,Palearctic,59456.4089,14104.64841,23.7%
+60702,Beni savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,126340.4811,48351.5686,38.3%
+60173,Uatuma-Trombetas moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,473213.0645,321521.3297,67.9%
+50525,Queen Charlotte Islands,Temperate Conifer Forests,Nearctic,9979.326114,4795.041579,48.0%
+60704,Cerrado,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,1921063.3090000001,218091.4151,11.4%
+40122,Luzon montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,8319.6354,3820.941521,45.9%
+40146,Peninsular Malaysian rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,125777.0252,20204.183230000002,16.1%
+11202,Esperance mallee,"Mediterranean Forests, Woodlands & Scrub",Australasia,115773.15699999999,23646.29606,20.4%
+40115,Himalayan subtropical broadleaf forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,38271.00883,4833.887608,12.6%
+80416,Crimean Submediterranean forest complex,Temperate Broadleaf & Mixed Forests,Palearctic,30218.05205,3151.136464,10.4%
+61004,Cordillera Central páramo,Montane Grasslands & Shrublands,Neotropics,12198.549070000001,2210.862326,18.1%
+60204,Bajío dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,37574.08577,1454.020454,3.9%
+31010,Jos Plateau forest-grassland mosaic,Montane Grasslands & Shrublands,Afrotropics,13365.6901,1206.696774,9.0%
+80802,Altai steppe and semi-desert,"Temperate Grasslands, Savannas & Shrublands",Palearctic,83125.53925,2457.171811,3.0%
+50415,Upper Midwest forest-savanna transition,Temperate Broadleaf & Mixed Forests,Nearctic,166500.0359,6172.433439,3.7%
+80803,Central Anatolian steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,24970.854219999997,1.272283482,0.0%
+40119,Kayah-Karen montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,119802.3306,32426.198239999998,27.1%
+40208,Northern dry deciduous forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,58449.97275,1607.57493,2.8%
+30904,Lake Chad flooded savanna,Flooded Grasslands & Savannas,Afrotropics,18874.173319999998,9160.886023000001,48.5%
+51303,Chihuahuan desert,Deserts & Xeric Shrublands,Nearctic,510639.7384,35152.11934,6.9%
+51301,Baja California desert,Deserts & Xeric Shrublands,Nearctic,77885.57964,46946.09553,60.3%
+60211,Chiapas Depression dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,14053.05417,310.06730939999994,2.2%
+60212,Chiquitano dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,231074.8793,55983.42909,24.2%
+30721,Victoria Basin forest-savanna mosaic,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,166152.5399,24994.739859999998,15.0%
+50503,Arizona Mountains forests,Temperate Conifer Forests,Nearctic,109323.8318,11748.787540000001,10.7%
+80809,Kazakh forest steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,421463.8501,50112.23056,11.9%
+61305,Caribbean shrublands,Deserts & Xeric Shrublands,Neotropics,3136.023683,878.5110292999999,28.0%
+50519,Northern California coastal forests,Temperate Conifer Forests,Nearctic,13304.799570000001,1787.4742199999998,13.4%
+81003,Eastern Himalayan alpine shrub and meadows,Montane Grasslands & Shrublands,Palearctic,121456.5445,47524.96802,39.1%
+11210,Southwest Australia woodlands,"Mediterranean Forests, Woodlands & Scrub",Australasia,46149.766110000004,5870.589557,12.7%
+60161,Sierra de los Tuxtlas,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,3911.1613840000005,1522.510731,38.9%
+80413,Central Korean deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,104792.7038,5247.500382,5.0%
+60143,Negro-Branco moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,202280.48100000003,60405.48429,29.9%
+80806,Emin Valley steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,65116.93113,9802.551081,15.1%
+10402,Eastern Australian temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,222554.1157,40139.104810000004,18.0%
+10109,Lord Howe Island subtropical forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,14.39659073,14.39659073,100.0%
+31403,Guinean mangroves,Mangroves,Afrotropics,23566.39206,5300.562156,22.5%
+31014,South Malawi montane forest-grassland mosaic,Montane Grasslands & Shrublands,Afrotropics,10249.960309999999,1513.6975320000001,14.8%
+60139,Maranhão Babaçu forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,142578.8015,27984.26483,19.6%
+31013,Rwenzori-Virunga montane moorlands,Montane Grasslands & Shrublands,Afrotropics,2679.2517989999997,1811.2103359999999,67.6%
+61312,Motagua Valley thornscrub,Deserts & Xeric Shrublands,Neotropics,2342.009549,450.13433669999995,19.2%
+40161,Sundaland heath forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,76717.61505,6450.28698,8.4%
+80521,Tian Shan montane conifer forests,Temperate Conifer Forests,Palearctic,27581.65482,2727.135031,9.9%
+40204,East Deccan dry-evergreen forests,Tropical & Subtropical Dry Broadleaf Forests,IndoMalay,25588.96722,573.4379027000001,2.2%
+50302,Sierra Madre Occidental pine-oak forests,Tropical & Subtropical Coniferous Forests,Nearctic,223232.2158,27752.84209,12.4%
+10126,Vanuatu rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,13230.80458,516.4677286,3.9%
+10121,Southern New Guinea freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,100141.8853,8602.682340000001,8.6%
+81324,Qaidam Basin semi-desert,Deserts & Xeric Shrublands,Palearctic,192470.14800000002,19787.53737,10.3%
+60165,Southern Andean Yungas,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,75507.57776,9458.426959,12.5%
+40127,Mentawai Islands rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,6513.094594,1899.9010670000002,29.2%
+41301,Deccan thorn scrub forests,Deserts & Xeric Shrublands,IndoMalay,341002.58200000005,9512.492158,2.8%
+60130,Isthmian-Pacific moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,29364.13953,3378.0491979999997,11.5%
+60205,Balsas dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,62581.951629999996,5203.811436,8.3%
+31305,Ethiopian xeric grasslands and shrublands,Deserts & Xeric Shrublands,Afrotropics,153457.3867,7121.979458,4.6%
+81305,Azerbaijan shrub desert and steppe,Deserts & Xeric Shrublands,Palearctic,64159.68452,3697.6577770000004,5.8%
+40157,Sumatran freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,18115.71178,630.0084017,3.5%
+50407,Eastern Great Lakes lowland forests,Temperate Broadleaf & Mixed Forests,Nearctic,116682.8092,2121.8688460000003,1.8%
+10413,Tasmanian temperate rain forests,Temperate Broadleaf & Mixed Forests,Australasia,31338.18083,18742.55647,59.8%
+40164,Tonle Sap freshwater swamp forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,26086.11919,3214.132682,12.3%
+80810,Kazakh steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,806305.8594,18150.7309,2.3%
+40167,Western Java montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,26341.89281,1922.5058920000001,7.3%
+40150,South Western Ghats moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,23824.0373,6660.027687,28.0%
+60214,Ecuadorian dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,21329.690880000002,536.9324181,2.5%
+30802,Amsterdam and Saint-Paul Islands temperate grasslands,"Temperate Grasslands, Savannas & Shrublands",Afrotropics,69.34921215,69.34921215,100.0%
+40151,South Western Ghats montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,22685.90828,6011.532923,26.5%
+10408,Richmond temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,13226.74769,4844.539113,36.6%
+10708,Trans Fly savanna and grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,26789.37521,10493.922770000001,39.2%
+60142,Napo moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,252272.9135,86689.28056,34.4%
+80427,Nihonkai evergreen forests,Temperate Broadleaf & Mixed Forests,Palearctic,21680.65764,3638.168289,16.8%
+31310,Kaokoveld desert,Deserts & Xeric Shrublands,Afrotropics,45834.81298,32947.84393,71.9%
+81009,Kuh Rud and Eastern Iran montane woodlands,Montane Grasslands & Shrublands,Palearctic,126622.9801,2156.5964719999997,1.7%
+50514,Fraser Plateau and Basin complex,Temperate Conifer Forests,Nearctic,137372.3726,13553.540180000002,9.9%
+40501,Eastern Himalayan subalpine conifer forests,Temperate Conifer Forests,IndoMalay,27539.82166,10155.927670000001,36.9%
+60202,Atlantic dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,115358.786,8945.789498,7.8%
+10404,Nelson Coast temperate forests,Temperate Broadleaf & Mixed Forests,Australasia,14608.322680000001,11426.27742,78.2%
+10705,Einasleigh upland savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Australasia,128756.3481,5843.557313,4.5%
+50529,Southeastern conifer forests,Temperate Conifer Forests,Nearctic,237137.7387,12475.2586,5.3%
+30203,Zambezian Cryptosepalum dry forests,Tropical & Subtropical Dry Broadleaf Forests,Afrotropics,38311.593069999995,7859.6487879999995,20.5%
+31203,Montane fynbos and renosterveld,"Mediterranean Forests, Woodlands & Scrub",Afrotropics,45903.993310000005,16278.71835,35.5%
+60201,Apure-Villavicencio dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,68690.92672999999,16766.64024,24.4%
+81111,Taimyr-Central Siberian tundra,Tundra,Palearctic,956948.296,132166.6768,13.8%
+70202,Hawaii tropical dry forests,Tropical & Subtropical Dry Broadleaf Forests,Oceania,6648.456559,1030.158863,15.5%
+40169,Hainan Island monsoon rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,15570.72234,1432.312257,9.2%
+50612,Northern Canadian Shield taiga,Boreal Forests/Taiga,Nearctic,615100.6818,33319.61978,5.4%
+41001,Kinabalu montane alpine meadows,Montane Grasslands & Shrublands,IndoMalay,4348.5782850000005,1473.016376,33.9%
+60178,Western Ecuador moist forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,34182.89597,1727.210012,5.1%
+81219,Southeastern Iberian shrubs and woodlands,"Mediterranean Forests, Woodlands & Scrub",Palearctic,2873.087375,1083.674808,37.7%
+80441,Taiheiyo montane deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,41998.92929,10604.73013,25.3%
+80433,Pyrenees conifer and mixed forests,Temperate Broadleaf & Mixed Forests,Palearctic,25944.43889,14776.636830000001,57.0%
+30107,Cross-Sanaga-Bioko coastal forests,Tropical & Subtropical Moist Broadleaf Forests,Afrotropics,52183.22195,13225.990909999999,25.3%
+40144,Peninsular Malaysian montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,17211.08437,5691.2156939999995,33.1%
+30722,West Sudanian savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Afrotropics,1641912.689,234819.9098,14.3%
+51310,Sonoran desert,Deserts & Xeric Shrublands,Nearctic,223505.7717,38226.885519999996,17.1%
+60144,Northeastern Brazil restingas,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,10078.05732,6968.578915000001,69.1%
+60305,Hispaniolan pine forests,Tropical & Subtropical Coniferous Forests,Neotropics,11621.69187,4137.769076,35.6%
+31318,Socotra Island xeric shrublands,Deserts & Xeric Shrublands,Afrotropics,3826.4747380000003,3499.7632,91.5%
+60902,Cuban wetlands,Flooded Grasslands & Savannas,Neotropics,5673.758119,3325.761818,58.6%
+50411,Northeastern coastal forests,Temperate Broadleaf & Mixed Forests,Nearctic,89847.93684,5055.733704,5.6%
+80805,Eastern Anatolian montane steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,168624.6219,8212.938123,4.9%
+80603,Kamchatka-Kurile meadows and sparse forests,Boreal Forests/Taiga,Palearctic,146770.0169,27703.61058,18.9%
+80817,South Siberian forest steppe,"Temperate Grasslands, Savannas & Shrublands",Palearctic,162232.3326,8974.783413,5.5%
+31322,Succulent Karoo,Deserts & Xeric Shrublands,Afrotropics,102919.4368,23992.107000000004,23.3%
+51118,Torngat Mountain tundra,Tundra,Nearctic,32363.27367,12899.5201,39.9%
+50413,Southeastern mixed forests,Temperate Broadleaf & Mixed Forests,Nearctic,348577.4622,3698.6125039999997,1.1%
+40134,North Western Ghats moist deciduous forests,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,48309.029669999996,2380.2050600000002,4.9%
+10107,Huon Peninsula montane rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,16557.94509,10.26036916,0.1%
+80903,Nenjiang River grassland,Flooded Grasslands & Savannas,Palearctic,23252.119280000003,1685.390028,7.2%
+40302,Luzon tropical pine forests,Tropical & Subtropical Coniferous Forests,IndoMalay,7091.8388939999995,1375.85156,19.4%
+61407,Southern Mesoamerican Pacific mangroves,Mangroves,Neotropics,7874.112118999999,3385.3048280000003,43.0%
+51105,Baffin coastal tundra,Tundra,Nearctic,9124.180482,490.48534910000006,5.4%
+51306,Gulf of California xeric scrub,Deserts & Xeric Shrublands,Nearctic,23631.53263,11966.92257,50.6%
+50404,Central U.S. hardwood forests,Temperate Broadleaf & Mixed Forests,Nearctic,296684.6934,9199.26919,3.1%
+81301,Afghan Mountains semi-desert,Deserts & Xeric Shrublands,Palearctic,13713.24621,569.9267607999999,4.2%
+50403,Appalachian-Blue Ridge forests,Temperate Broadleaf & Mixed Forests,Nearctic,159624.266,9760.841067,6.1%
+81220,Southern Anatolian montane conifer and deciduous forests,"Mediterranean Forests, Woodlands & Scrub",Palearctic,76619.38957,216.65743080000001,0.3%
+31319,Somali montane xeric woodlands,Deserts & Xeric Shrublands,Afrotropics,62774.47005,0.0,0.0%
+31321,Southwestern Arabian montane woodlands,Deserts & Xeric Shrublands,Afrotropics,87101.53666,0.0,0.0%
+80420,Eastern Anatolian deciduous forests,Temperate Broadleaf & Mixed Forests,Palearctic,81747.97193,0.0,0.0%
+31304,Eritrean coastal desert,Deserts & Xeric Shrublands,Afrotropics,4604.696113,0.0,0.0%
+60172,Trindade-Martin Vaz Islands tropical forests,Tropical & Subtropical Moist Broadleaf Forests,Neotropics,9.30251643,0.0,0.0%
+31307,Hobyo grasslands and shrublands,Deserts & Xeric Shrublands,Afrotropics,25627.694,0.0,0.0%
+80807,Faroe Islands boreal grasslands,"Temperate Grasslands, Savannas & Shrublands",Palearctic,1451.312408,0.0,0.0%
+81319,Kopet Dag semi-desert,Deserts & Xeric Shrublands,Palearctic,26326.0961,0.0,0.0%
+81005,Hindu Kush alpine meadow,Montane Grasslands & Shrublands,Palearctic,28325.79918,0.0,0.0%
+40148,South China Sea Islands,Tropical & Subtropical Moist Broadleaf Forests,IndoMalay,30.71864212,0.0,0.0%
+60705,Clipperton Island shrub and grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",Neotropics,28.95164184,0.0,0.0%
+70204,Yap tropical dry forests,Tropical & Subtropical Dry Broadleaf Forests,Oceania,102.09856690000001,0.0,0.0%
+60403,San Félix-San Ambrosio Islands temperate forests,Temperate Broadleaf & Mixed Forests,Neotropics,6.514726452000001,0.0,0.0%
+61318,St. Peter and St. Paul rocks,Deserts & Xeric Shrublands,Neotropics,6.08291824,0.0,0.0%
+70116,Tubuai tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,Oceania,142.2590007,0.0,0.0%
+10110,Louisiade Archipelago rain forests,Tropical & Subtropical Moist Broadleaf Forests,Australasia,1617.576249,0.0,0.0%
+31001,Angolan montane forest-grassland mosaic,Montane Grasslands & Shrublands,Afrotropics,25573.48528,0.0,0.0%
+31303,East Saharan montane xeric woodlands,Deserts & Xeric Shrublands,Afrotropics,27931.53451,0.0,0.0%
+60225,Patía Valley dry forests,Tropical & Subtropical Dry Broadleaf Forests,Neotropics,2275.781764,0.0,0.0%
+80515,Northern Anatolian conifer and deciduous forests,Temperate Conifer Forests,Palearctic,101519.2579,0.0,0.0%
