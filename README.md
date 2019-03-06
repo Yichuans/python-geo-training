@@ -56,10 +56,20 @@ You need to copy the token from the command window to the browser the first time
 - run scripts directly using the builtin magic function `%run`
 - run shell command with `!{command}` in the notebook
 
-## Dashboard
+## Add-ons
+
+**Dashboard**
 
 To enable [Jupyter Dashboards](https://jupyter-dashboards-layout.readthedocs.io/en/latest/getting-started.html)
 
 ```bash
 conda install jupyter_dashboards -c conda-forge
+```
+
+**Leaflet**
+
+For interactive maps using [`ipyleaflet`](https://ipyleaflet.readthedocs.io/en/latest/)
+
+```bash
+conda install -c conda-forge ipyleaflet
 ```
