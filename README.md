@@ -41,6 +41,10 @@ Because this environment is a clone to the original environment shipped with Arc
 Change your working directory to this repository and start the jupyter notebook. 
 
 ```bash
+cd {your directory}
+```
+
+```bash
 jupyter notebook
 ```
 
