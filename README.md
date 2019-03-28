@@ -38,11 +38,20 @@ Because this environment is a clone to the original environment shipped with Arc
 
 <hr>
 
-Change your working directory to this repository and start the jupyter notebook. 
+Clone the training repository by 
 
 ```bash
-cd {your directory}
+git clone {this repository}
 ```
+and then switching your working directory using `cd`
+
+```bash
+cd {cloned local directory}
+```
+
+If you have downloaded the zip file, you need to first unzip it before `cd` changing.
+
+You may now start the jupyter notebook
 
 ```bash
 jupyter notebook
