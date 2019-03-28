@@ -2,6 +2,8 @@
 
 An introduction of Python, GIS (ArcGIS) and Jupyter notebook. This is a follow up training.
 
+AA, CR and YS
+
 ## Prerequisite
 
 Have attended Spencer's [Introduction to Python for Data Science](https://github.com/spencerldixon/intro-to-data-science) or experience in using Python and Jupyter notebook. 
